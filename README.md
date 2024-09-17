@@ -1,1 +1,1 @@
-# machine-earning-application
+# machine-learning-application
